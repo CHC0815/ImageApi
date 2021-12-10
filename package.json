@@ -1,0 +1,15 @@
+{
+    "name": "imageapi",
+    "version": "1.0.0",
+    "description": "Api to render text",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Conrad Heinrich Carl",
+    "license": "ISC",
+    "dependencies": {
+        "canvas": "^2.8.0",
+        "express": "^4.17.1"
+    }
+}
