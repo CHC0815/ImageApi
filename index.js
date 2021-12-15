@@ -5,6 +5,7 @@ const {
 
 
 const app = express();
+app.disable("x-powered-by");
 
 app.get('/', (req, res) => {
     res.send('Image api');
@@ -53,7 +54,6 @@ app.get('/render', (req, res) => {
         }
         res.contentType("image/png");
         res.send(buf);
-        return;
     }, 'image/png');
 });
 
