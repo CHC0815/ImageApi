@@ -1,0 +1,1 @@
+"U:\Program Files\sonar-scanner-4.6.2.2472-windows\bin\sonar-scanner.bat" -D"sonar.projectKey=CHC0815_ImageApi" -D"sonar.sources=." -D"sonar.host.url=https://home.cophee.team" -D"sonar.login=b363a6798652c358f62bf97ebe8a49abb3644278"
