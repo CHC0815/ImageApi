@@ -10,7 +10,7 @@
     "author": "Conrad Heinrich Carl",
     "license": "ISC",
     "dependencies": {
-        "canvas": "^2.8.0",
+        "canvas": "^3.0.0",
         "express": "^4.17.1"
     }
 }
